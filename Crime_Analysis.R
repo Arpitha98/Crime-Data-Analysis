@@ -6,11 +6,11 @@ library(plotly)
 library(leaflet)
 
 #DATASETS----
-data1<-read.csv("C:\\Users\\91965\\Documents\\BDA SEM II\\Multivariate Statistics\\R Project II\\FINAL_DATA_2016\\FINAL_DATA_2016\\CRIME AGAINST CHILDREN.csv")
-data2<-read.csv("C:\\Users\\91965\\Documents\\BDA SEM II\\Multivariate Statistics\\R Project II\\FINAL_DATA_2016\\FINAL_DATA_2016\\CRIME AGAINST WOMEN.csv")
-data3<-read.csv("C:\\Users\\91965\\Documents\\BDA SEM II\\Multivariate Statistics\\R Project II\\FINAL_DATA_2016\\FINAL_DATA_2016\\CRIME AGAINST SC.csv")
-data4<-read.csv("C:\\Users\\91965\\Documents\\BDA SEM II\\Multivariate Statistics\\R Project II\\FINAL_DATA_2016\\FINAL_DATA_2016\\CRIME AGAINST SENIOR CITIZENS.csv")
-#smartcities <- read.csv("C:\\Users\\91965\\Documents\\BDA SEM II\\Multivariate Statistics\\R Project II\\FINAL_DATA_2016\\FINAL_DATA_2016\\smart1.csv")
+data1<-read.csv("C:\\Users\\Arpitha Shibu\\Documents\\BDA SEM II\\Multivariate Statistics\\R Project II\\FINAL_DATA_2016\\FINAL_DATA_2016\\CRIME AGAINST CHILDREN.csv")
+data2<-read.csv("C:\\Users\\Arpitha Shibu\\Documents\\BDA SEM II\\Multivariate Statistics\\R Project II\\FINAL_DATA_2016\\FINAL_DATA_2016\\CRIME AGAINST WOMEN.csv")
+data3<-read.csv("C:\\Users\\Arpitha Shibu\\Documents\\BDA SEM II\\Multivariate Statistics\\R Project II\\FINAL_DATA_2016\\FINAL_DATA_2016\\CRIME AGAINST SC.csv")
+data4<-read.csv("C:\\Users\\Arpitha Shibu\\Documents\\BDA SEM II\\Multivariate Statistics\\R Project II\\FINAL_DATA_2016\\FINAL_DATA_2016\\CRIME AGAINST SENIOR CITIZENS.csv")
+#smartcities <- read.csv("C:\\Users\\Arpitha Shibu\\Documents\\BDA SEM II\\Multivariate Statistics\\R Project II\\FINAL_DATA_2016\\FINAL_DATA_2016\\smart1.csv")
 #smartcities$State.UT <- as.character(smartcities$State.UT)
 
 #Dataset_Manipulations
