@@ -1,12 +1,11 @@
 # Crime-Data-Analysis
-Title
+#Title:
 Crime Data Analysis
 
-Problem Statement 
+#Problem Statement:
 To analyse the crimes in India of the year 2016 and see the crime pattern.
 
-Description
-
+#Description:
 
 The dataset was obtained from data.gov.in. It consists of the crime data of the states of India of the year 2016.
 
